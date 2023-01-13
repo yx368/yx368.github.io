@@ -8,3 +8,5 @@ LG Brebeuf
 | Meal| Monday | Tuesday | Wednesday | Thursday | Friday |
 |-----|--------|---------|-----------|----------|--------|
 |Breakfast| Tapsilog | Hotdog | Tinola | |Adobo|
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G_rlCveelvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
